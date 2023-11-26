@@ -1,1 +1,1 @@
-Search type : Issues
+Search type : pull
