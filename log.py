@@ -18,7 +18,7 @@ def save_repository_info(info, text_file):
 
 # data.json 파일 txt 저장
 def save_json_to_txt(data):
-    json_file_path = './JSON.txt'
+    json_file_path = './loging/JSON.txt'
     try:
         with open(json_file_path, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=2)
