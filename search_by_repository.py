@@ -1,23 +1,19 @@
 import requests
-from datetime import datetime, timedelta
 from log import *
 from repository_clone import github_crawler
+from search_option import *
 
 
 def search_by_repository(headers):
     from search import repository_name
 
-    save_repository_info("Search type : Repository", repository_name)
-    language_input = 'python'
-    min_stars = 10
-    min_forks = 10
-    updated_after = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+    save_repository_info("Search type : Repository\n", repository_name)
+    option = search_option()
 
     # GitHub 검색 API를 사용하여 리포지토리 검색
-    per_page = 10 # 최대값 100
     search_url = 'https://api.github.com/search/repositories'
-    query = f'language:{language_input} stars:>{min_stars} forks:>{min_forks} pushed:>{updated_after}'
-    params = {'q': query, 'sort': 'stars', 'order': 'desc', 'per_page': per_page}  # 검색할 페이지 수만큼 가져옴
+    query = f'language:{option.language_input} stars:>{option.min_stars} forks:>{option.min_forks} pushed:>{option.updated_after}'
+    params = {'q': query, 'sort': 'stars', 'order': 'desc', 'per_page': option.per_page}  # 검색할 페이지 수만큼 가져옴
 
     response = requests.get(search_url, headers=headers, params=params)
 
@@ -32,5 +28,3 @@ def search_by_repository(headers):
         print(status_error)
         save_repository_info(status_error, repository_name)
         print(response.text)
-
-    return 0

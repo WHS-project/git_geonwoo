@@ -16,7 +16,7 @@ log_file_path = log_path + '/log.txt'
 repository_name = open(log_file_path, "w", encoding='utf-8')
 
 def set_token():
-    token = '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'
+    token = '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'
     return token
 
 # Github API를 통한 repository 검색
