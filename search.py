@@ -1,9 +1,7 @@
-import requests
 import os
-from datetime import datetime, timedelta
-from search_by_issue import search_by_issues
 from log import *
-
+from search_by_issue import search_by_issue
+from search_by_pull import search_by_pull
 from search_by_repository import search_by_repository
 
 # Log 파일 생성
@@ -16,7 +14,7 @@ log_file_path = log_path + '/log.txt'
 repository_name = open(log_file_path, "w", encoding='utf-8')
 
 def set_token():
-    token = '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'
+    token = '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'
     return token
 
 # Github API를 통한 repository 검색
@@ -31,5 +29,7 @@ def github_search():
     if search_number == 1:
         search_by_repository(headers)
     elif search_number == 2:
-        search_by_issues(headers)
+        search_by_issue(headers)
+    else:
+        search_by_pull(headers)
 
