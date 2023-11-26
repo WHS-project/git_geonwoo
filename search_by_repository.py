@@ -5,9 +5,9 @@ from search_option import *
 
 
 def search_by_repository(headers):
-    from search import repository_name
+    from search import log_txt
 
-    save_repository_info("Search type : Repository\n", repository_name)
+    save_repository_info("Search type : Repository\n", log_txt)
     option = search_option()
 
     # GitHub 검색 API를 사용하여 리포지토리 검색
@@ -26,5 +26,5 @@ def search_by_repository(headers):
     else:
         status_error = f"Unable to retrieve data. Status code: {response.status_code}"
         print(status_error)
-        save_repository_info(status_error, repository_name)
+        save_repository_info(status_error, log_txt)
         print(response.text)

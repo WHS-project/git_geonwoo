@@ -11,8 +11,9 @@ if not os.path.exists(log_path):
     os.makedirs(log_path)
 
 log_file_path = log_path + '/log.txt'
-repository_name = open(log_file_path, "w", encoding='utf-8')
+log_txt = open(log_file_path, "w", encoding='utf-8')
 
+# 토큰 세팅 함수
 def set_token():
     token = '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'
     return token
@@ -22,8 +23,6 @@ def github_search():
     # GibHub API 인증 토큰 설정
     token = set_token()
     headers = {'Authorization': f'token {token}'}
-
-    search_type = 'repositories' # issues, repositories
 
     search_number = int(input("1: Repository\n2: Issues\n검색 타입을 입력하세요: "))
     if search_number == 1:
