@@ -1,16 +1,8 @@
 Repository index: 0
 Repository name: public-apis
 Language : Python
-Stars count: 269568
-Forks count: 30338
-Last update: 2023-11-25T01:58:54Z
+Stars count: 269646
+Forks count: 30344
+Last update: 2023-11-26T02:17:02Z
 URL: https://github.com/public-apis/public-apis
-
-Repository index: 1
-Repository name: system-design-primer
-Language : Python
-Stars count: 236241
-Forks count: 41298
-Last update: 2023-11-25T01:56:57Z
-URL: https://github.com/donnemartin/system-design-primer
 
