@@ -21,7 +21,7 @@ def search_by_repository(headers):
     if response.status_code == 200:
         data = response.json()
         # json txt로 저장
-        save_json_to_txt(data)
+        save_json_to_txt(data, "repository")
         github_crawler(data)
     else:
         status_error = f"Unable to retrieve data. Status code: {response.status_code}"

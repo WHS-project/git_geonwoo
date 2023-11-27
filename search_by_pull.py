@@ -11,7 +11,7 @@ def search_by_pull(headers):
 
     url = 'https://api.github.com/search/issues'
     # 선택한 언어 중에서 issues, label이 bug인것, closed 된 것들을 가져옴
-    query = f'language:{option.language_input} 	is:pr is:closed label:bug'
+    query = f'language:{option.language_input} 	is:pr is:{option.state} label:{option.label}'
     params = {'q': query , 'per_page':{option.per_page}}  # 검색할 페이지 수만큼 가져옴
 
     response = requests.get(url, headers=headers, params=params)
@@ -20,7 +20,7 @@ def search_by_pull(headers):
     if response.status_code == 200:
         data = response.json()
         # json txt로 저장
-        save_json_to_txt(data)
+        save_json_to_txt(data, "pull")
     else:
         status_error = f"Unable to retrieve data. Status code: {response.status_code}"
         print(status_error)
