@@ -5,7 +5,7 @@ class search_option():
     min_stars = 10
     min_forks = 10
     updated_after = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
-    per_page = 5 # 최대값 100
+    per_page = 100 # 최대값 100
     page = 1
     label= 'bug'
     state = 'closed'

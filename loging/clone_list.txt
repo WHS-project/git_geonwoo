@@ -1,0 +1,800 @@
+Pull request index: 1
+PR title: correction error en urls.py
+PR URL: https://github.com/andressomoza/EGC2324-turno41-andsomsie/pull/2
+created_at: 2023-11-30T16:54:55Z
+updated_at: 2023-11-30T16:55:42Z
+closed_at: 2023-11-30T16:55:42Z
+repository_url: https://api.github.com/repos/andressomoza/EGC2324-turno41-andsomsie
+
+Pull request index: 2
+PR title: Pongo la coma en el urls.py
+PR URL: https://github.com/jaicabher1/EGC-2324-1730/pull/2
+created_at: 2023-11-30T16:54:18Z
+updated_at: 2023-11-30T16:55:05Z
+closed_at: 2023-11-30T16:55:05Z
+repository_url: https://api.github.com/repos/jaicabher1/EGC-2324-1730
+
+Pull request index: 3
+PR title: fix: Error sintaxis urls.py
+PR URL: https://github.com/JStockwell/EGC2324-turno41-jaistomen/pull/2
+created_at: 2023-11-30T16:53:02Z
+updated_at: 2023-11-30T16:54:24Z
+closed_at: 2023-11-30T16:54:24Z
+repository_url: https://api.github.com/repos/JStockwell/EGC2324-turno41-jaistomen
+
+Pull request index: 4
+PR title: Fix self closing custom component lint flag on DateWindowInput
+PR URL: https://github.com/Netflix/dispatch/pull/4055
+created_at: 2023-11-30T16:43:56Z
+updated_at: 2023-11-30T16:51:30Z
+closed_at: 2023-11-30T16:51:28Z
+repository_url: https://api.github.com/repos/Netflix/dispatch
+
+Pull request index: 5
+PR title: Add Makefile
+PR URL: https://github.com/cloudify-incubator/cloudify-helm-plugin/pull/106
+created_at: 2023-11-30T16:35:29Z
+updated_at: 2023-11-30T16:36:18Z
+closed_at: 2023-11-30T16:36:18Z
+repository_url: https://api.github.com/repos/cloudify-incubator/cloudify-helm-plugin
+
+Pull request index: 6
+PR title: fix: update settings.py
+PR URL: https://github.com/silvglad/EGC2324-turno32-enrcabmun/pull/2
+created_at: 2023-11-30T16:10:57Z
+updated_at: 2023-11-30T16:11:21Z
+closed_at: 2023-11-30T16:11:21Z
+repository_url: https://api.github.com/repos/silvglad/EGC2324-turno32-enrcabmun
+
+Pull request index: 7
+PR title: Troubleshoot generating file script
+PR URL: https://github.com/sampedersen/SimplewareScripts/pull/7
+created_at: 2023-11-30T16:08:35Z
+updated_at: 2023-11-30T16:09:11Z
+closed_at: 2023-11-30T16:09:05Z
+repository_url: https://api.github.com/repos/sampedersen/SimplewareScripts
+
+Pull request index: 8
+PR title: fix: offset-aware time when preparing tasks
+PR URL: https://github.com/Pycord-Development/pycord/pull/2271
+created_at: 2023-11-30T16:01:11Z
+updated_at: 2023-11-30T16:38:22Z
+closed_at: 2023-11-30T16:38:21Z
+repository_url: https://api.github.com/repos/Pycord-Development/pycord
+
+Pull request index: 9
+PR title: fix: Fichero local_setting.py arreglado
+PR URL: https://github.com/dancorfon/EGC-2324-turno32-dancorfon/pull/2
+created_at: 2023-11-30T15:56:50Z
+updated_at: 2023-11-30T15:57:11Z
+closed_at: 2023-11-30T15:57:11Z
+repository_url: https://api.github.com/repos/dancorfon/EGC-2324-turno32-dancorfon
+
+Pull request index: 10
+PR title: Add pynose requirement
+PR URL: https://github.com/claugp06/EGC-2324-1630/pull/2
+created_at: 2023-11-30T15:55:36Z
+updated_at: 2023-11-30T15:56:05Z
+closed_at: 2023-11-30T15:56:05Z
+repository_url: https://api.github.com/repos/claugp06/EGC-2324-1630
+
+Pull request index: 11
+PR title: Fixed precedence bug in arith expressions
+PR URL: https://github.com/PRAISE-group/Chiron-Framework/pull/9
+created_at: 2023-11-30T15:53:13Z
+updated_at: 2023-11-30T15:53:52Z
+closed_at: 2023-11-30T15:53:52Z
+repository_url: https://api.github.com/repos/PRAISE-group/Chiron-Framework
+
+Pull request index: 12
+PR title: Fix single event read-in in Oscar and Jetscape
+PR URL: https://github.com/smash-transport/sparkx/pull/149
+created_at: 2023-11-30T15:52:29Z
+updated_at: 2023-11-30T16:15:44Z
+closed_at: 2023-11-30T16:15:40Z
+repository_url: https://api.github.com/repos/smash-transport/sparkx
+
+Pull request index: 13
+PR title: Fix uri detection
+PR URL: https://github.com/pylhc/submitter/pull/37
+created_at: 2023-11-30T15:48:33Z
+updated_at: 2023-11-30T15:59:55Z
+closed_at: 2023-11-30T15:59:53Z
+repository_url: https://api.github.com/repos/pylhc/submitter
+
+Pull request index: 14
+PR title: Add `/imagine` command and more
+PR URL: https://github.com/kxkw/chatgpt-telegram-bot/pull/45
+created_at: 2023-11-30T15:47:40Z
+updated_at: 2023-11-30T15:52:10Z
+closed_at: 2023-11-30T15:52:10Z
+repository_url: https://api.github.com/repos/kxkw/chatgpt-telegram-bot
+
+Pull request index: 15
+PR title: Cambio del requirements.txt
+PR URL: https://github.com/Domi-ATLAS/EGC2324-turno31-edupizlop/pull/2
+created_at: 2023-11-30T15:10:49Z
+updated_at: 2023-11-30T15:12:10Z
+closed_at: 2023-11-30T15:12:10Z
+repository_url: https://api.github.com/repos/Domi-ATLAS/EGC2324-turno31-edupizlop
+
+Pull request index: 16
+PR title: Fix dependencies requirements.txt #1
+PR URL: https://github.com/marvicmar/EGC2324-turno31-marvicmar/pull/2
+created_at: 2023-11-30T15:04:13Z
+updated_at: 2023-11-30T15:04:52Z
+closed_at: 2023-11-30T15:04:52Z
+repository_url: https://api.github.com/repos/marvicmar/EGC2324-turno31-marvicmar
+
+Pull request index: 17
+PR title: fix django version requirement #1
+PR URL: https://github.com/alepervaz/EGC-2324-1530/pull/2
+created_at: 2023-11-30T15:01:44Z
+updated_at: 2023-11-30T15:02:16Z
+closed_at: 2023-11-30T15:02:16Z
+repository_url: https://api.github.com/repos/alepervaz/EGC-2324-1530
+
+Pull request index: 18
+PR title: Nginx static files / Translations
+PR URL: https://github.com/plathanus-tech/django_boilerplate/pull/25
+created_at: 2023-11-30T14:59:15Z
+updated_at: 2023-11-30T16:08:07Z
+closed_at: 2023-11-30T16:08:07Z
+repository_url: https://api.github.com/repos/plathanus-tech/django_boilerplate
+
+Pull request index: 19
+PR title: fix(requirements): fixes django version error from 2.0 to 4.2
+PR URL: https://github.com/3ralon/EGC2324-turno31-albperleo/pull/2
+created_at: 2023-11-30T14:58:57Z
+updated_at: 2023-11-30T14:59:16Z
+closed_at: 2023-11-30T14:59:15Z
+repository_url: https://api.github.com/repos/3ralon/EGC2324-turno31-albperleo
+
+Pull request index: 20
+PR title: fix(decide):Error en el requirements.txt
+PR URL: https://github.com/barbaat/EGC2324-turno31-frabartre/pull/2
+created_at: 2023-11-30T14:55:38Z
+updated_at: 2023-11-30T14:58:42Z
+closed_at: 2023-11-30T14:58:42Z
+repository_url: https://api.github.com/repos/barbaat/EGC2324-turno31-frabartre
+
+Pull request index: 21
+PR title: fix: Soluciona error de versionado en requirements.txt
+PR URL: https://github.com/tcabgom/EGC2324-turno31-tadcabgom/pull/2
+created_at: 2023-11-30T14:50:13Z
+updated_at: 2023-11-30T14:51:17Z
+closed_at: 2023-11-30T14:51:17Z
+repository_url: https://api.github.com/repos/tcabgom/EGC2324-turno31-tadcabgom
+
+Pull request index: 22
+PR title: `[EdgeIndex]` Do not use `SparseTensor` in CPU `matmul` code path
+PR URL: https://github.com/pyg-team/pytorch_geometric/pull/8493
+created_at: 2023-11-30T14:48:42Z
+updated_at: 2023-11-30T14:50:02Z
+closed_at: 2023-11-30T14:50:01Z
+repository_url: https://api.github.com/repos/pyg-team/pytorch_geometric
+
+Pull request index: 23
+PR title: fix: install wheelhouse on Windows
+PR URL: https://github.com/ansys/pyansys-geometry/pull/868
+created_at: 2023-11-30T14:45:43Z
+updated_at: 2023-11-30T15:03:34Z
+closed_at: 2023-11-30T15:03:33Z
+repository_url: https://api.github.com/repos/ansys/pyansys-geometry
+
+Pull request index: 24
+PR title: Fix Upert latency panel
+PR URL: https://github.com/redhat-performance/benchmark-runner/pull/749
+created_at: 2023-11-30T14:38:56Z
+updated_at: 2023-11-30T14:49:40Z
+closed_at: 2023-11-30T14:49:40Z
+repository_url: https://api.github.com/repos/redhat-performance/benchmark-runner
+
+Pull request index: 25
+PR title: Separator can accept only 1 character
+PR URL: https://github.com/faissaloux/termspark/pull/55
+created_at: 2023-11-30T14:37:38Z
+updated_at: 2023-11-30T14:48:25Z
+closed_at: 2023-11-30T14:48:22Z
+repository_url: https://api.github.com/repos/faissaloux/termspark
+
+Pull request index: 26
+PR title: Fix: Increase field the length for consumption template source
+PR URL: https://github.com/paperless-ngx/paperless-ngx/pull/4719
+created_at: 2023-11-30T14:32:25Z
+updated_at: 2023-11-30T15:00:56Z
+closed_at: 2023-11-30T15:00:55Z
+repository_url: https://api.github.com/repos/paperless-ngx/paperless-ngx
+
+Pull request index: 27
+PR title: :hammer: Update script for drop db
+PR URL: https://github.com/didx-xyz/aries-cloudapi-python/pull/568
+created_at: 2023-11-30T14:30:52Z
+updated_at: 2023-11-30T16:14:24Z
+closed_at: 2023-11-30T16:14:23Z
+repository_url: https://api.github.com/repos/didx-xyz/aries-cloudapi-python
+
+Pull request index: 28
+PR title: Uncoupling frontend from backend
+PR URL: https://github.com/Helment/NeuriGUI/pull/20
+created_at: 2023-11-30T13:55:46Z
+updated_at: 2023-11-30T13:58:17Z
+closed_at: 2023-11-30T13:58:16Z
+repository_url: https://api.github.com/repos/Helment/NeuriGUI
+
+Pull request index: 29
+PR title: Fix Repository is not a class
+PR URL: https://github.com/huggingface/huggingface_hub/pull/1879
+created_at: 2023-11-30T13:43:57Z
+updated_at: 2023-11-30T16:57:53Z
+closed_at: 2023-11-30T16:57:52Z
+repository_url: https://api.github.com/repos/huggingface/huggingface_hub
+
+Pull request index: 30
+PR title: pin version of empy to <4
+PR URL: https://github.com/colcon/colcon-core/pull/603
+created_at: 2023-11-30T13:32:07Z
+updated_at: 2023-11-30T14:43:12Z
+closed_at: 2023-11-30T14:41:45Z
+repository_url: https://api.github.com/repos/colcon/colcon-core
+
+Pull request index: 31
+PR title: remove missing contribution to heavy_components
+PR URL: https://github.com/NNPDF/yadism/pull/248
+created_at: 2023-11-30T13:29:23Z
+updated_at: 2023-11-30T13:32:22Z
+closed_at: 2023-11-30T13:32:21Z
+repository_url: https://api.github.com/repos/NNPDF/yadism
+
+Pull request index: 32
+PR title: correcion local_settings
+PR URL: https://github.com/guillegomezz8/praticaExamenEgc/pull/2
+created_at: 2023-11-30T13:04:09Z
+updated_at: 2023-11-30T13:04:27Z
+closed_at: 2023-11-30T13:04:26Z
+repository_url: https://api.github.com/repos/guillegomezz8/praticaExamenEgc
+
+Pull request index: 33
+PR title: docs: 📚 fix `ModelViewSetTestCase` examples
+PR URL: https://github.com/hbakri/django-ninja-crud/pull/340
+created_at: 2023-11-30T12:35:41Z
+updated_at: 2023-11-30T12:38:29Z
+closed_at: 2023-11-30T12:38:28Z
+repository_url: https://api.github.com/repos/hbakri/django-ninja-crud
+
+Pull request index: 34
+PR title: change default in mk_copy
+PR URL: https://github.com/Draegerwerk/sdc11073/pull/295
+created_at: 2023-11-30T12:29:28Z
+updated_at: 2023-11-30T13:25:41Z
+closed_at: 2023-11-30T13:25:36Z
+repository_url: https://api.github.com/repos/Draegerwerk/sdc11073
+
+Pull request index: 35
+PR title: Import sudo function from correct module
+PR URL: https://github.com/Uninett/nav/pull/2777
+created_at: 2023-11-30T12:04:46Z
+updated_at: 2023-11-30T12:17:24Z
+closed_at: 2023-11-30T12:17:20Z
+repository_url: https://api.github.com/repos/Uninett/nav
+
+Pull request index: 36
+PR title: :white_check_mark: cleanup tenant after creation in test
+PR URL: https://github.com/didx-xyz/aries-cloudapi-python/pull/565
+created_at: 2023-11-30T11:27:28Z
+updated_at: 2023-11-30T11:35:29Z
+closed_at: 2023-11-30T11:35:28Z
+repository_url: https://api.github.com/repos/didx-xyz/aries-cloudapi-python
+
+Pull request index: 37
+PR title: Checkpoint: increase to one second the delta for the start date
+PR URL: https://github.com/SEKOIA-IO/automation-library/pull/612
+created_at: 2023-11-30T11:25:50Z
+updated_at: 2023-11-30T13:11:23Z
+closed_at: 2023-11-30T13:11:22Z
+repository_url: https://api.github.com/repos/SEKOIA-IO/automation-library
+
+Pull request index: 38
+PR title: 🐛(frontend) wrong store with invite link
+PR URL: https://github.com/openfun/marsha/pull/2521
+created_at: 2023-11-30T11:22:45Z
+updated_at: 2023-11-30T13:12:02Z
+closed_at: 2023-11-30T13:12:01Z
+repository_url: https://api.github.com/repos/openfun/marsha
+
+Pull request index: 39
+PR title: Removed tmp mount in devcontainer.json. Fix #4686
+PR URL: https://github.com/cookiecutter/cookiecutter-django/pull/4708
+created_at: 2023-11-30T11:16:10Z
+updated_at: 2023-11-30T14:09:22Z
+closed_at: 2023-11-30T14:09:01Z
+repository_url: https://api.github.com/repos/cookiecutter/cookiecutter-django
+
+Pull request index: 40
+PR title: Fixing conversion import in plot_scale_by_luminosity
+PR URL: https://github.com/flaresimulations/synthesizer/pull/467
+created_at: 2023-11-30T11:05:56Z
+updated_at: 2023-11-30T15:28:18Z
+closed_at: 2023-11-30T15:28:17Z
+repository_url: https://api.github.com/repos/flaresimulations/synthesizer
+
+Pull request index: 41
+PR title: fix - catch sample sheet errors in sample sheet generation automation
+PR URL: https://github.com/Clinical-Genomics/cg/pull/2720
+created_at: 2023-11-30T11:04:09Z
+updated_at: 2023-11-30T13:55:18Z
+closed_at: 2023-11-30T13:47:34Z
+repository_url: https://api.github.com/repos/Clinical-Genomics/cg
+
+Pull request index: 42
+PR title: AWS: Register AWS S3 flowlogs
+PR URL: https://github.com/SEKOIA-IO/automation-library/pull/611
+created_at: 2023-11-30T11:02:54Z
+updated_at: 2023-11-30T11:20:49Z
+closed_at: 2023-11-30T11:20:48Z
+repository_url: https://api.github.com/repos/SEKOIA-IO/automation-library
+
+Pull request index: 43
+PR title: Bugfix RenderMan doesn't support tk-multi-deadlinereviewsubmission
+PR URL: https://github.com/nfa-vfxim/tk-houdini/pull/5
+created_at: 2023-11-30T10:53:53Z
+updated_at: 2023-11-30T12:40:59Z
+closed_at: 2023-11-30T12:40:58Z
+repository_url: https://api.github.com/repos/nfa-vfxim/tk-houdini
+
+Pull request index: 44
+PR title: tjftj
+PR URL: https://github.com/coulontitouan/League-Card-Generator/pull/2
+created_at: 2023-11-30T10:47:53Z
+updated_at: 2023-11-30T10:50:17Z
+closed_at: 2023-11-30T10:50:16Z
+repository_url: https://api.github.com/repos/coulontitouan/League-Card-Generator
+
+Pull request index: 45
+PR title: fix: updated requirements for container deployment
+PR URL: https://github.com/adrrf/EGC-2324-turno21-adrromflo/pull/3
+created_at: 2023-11-30T10:23:00Z
+updated_at: 2023-11-30T10:23:08Z
+closed_at: 2023-11-30T10:23:08Z
+repository_url: https://api.github.com/repos/adrrf/EGC-2324-turno21-adrromflo
+
+Pull request index: 46
+PR title: fix: Fix identations on manage.py
+PR URL: https://github.com/pabpercab1/EGC2324-turno21-pabpercab1/pull/2
+created_at: 2023-11-30T10:21:42Z
+updated_at: 2023-11-30T10:22:20Z
+closed_at: 2023-11-30T10:22:20Z
+repository_url: https://api.github.com/repos/pabpercab1/EGC2324-turno21-pabpercab1
+
+Pull request index: 47
+PR title: bugfix(egc_test): Corregido error settings.py
+PR URL: https://github.com/carvarsou/EGC-2324-turno21-carvarsou/pull/2
+created_at: 2023-11-30T10:17:03Z
+updated_at: 2023-11-30T10:18:32Z
+closed_at: 2023-11-30T10:18:32Z
+repository_url: https://api.github.com/repos/carvarsou/EGC-2324-turno21-carvarsou
+
+Pull request index: 48
+PR title: [BugFix] Faster empty_like for MemoryMappedTensor (dup)
+PR URL: https://github.com/pytorch/tensordict/pull/586
+created_at: 2023-11-30T10:15:22Z
+updated_at: 2023-11-30T10:24:10Z
+closed_at: 2023-11-30T10:16:20Z
+repository_url: https://api.github.com/repos/pytorch/tensordict
+
+Pull request index: 49
+PR title: [BugFix] Faster empty_like for MemoryMappedTensor
+PR URL: https://github.com/pytorch/tensordict/pull/585
+created_at: 2023-11-30T10:10:29Z
+updated_at: 2023-11-30T10:21:15Z
+closed_at: 2023-11-30T10:12:14Z
+repository_url: https://api.github.com/repos/pytorch/tensordict
+
+Pull request index: 50
+PR title: fix: error en manage.py corregido
+PR URL: https://github.com/marnunrey2/EGC-2324-1040-marnunrey2/pull/2
+created_at: 2023-11-30T10:06:11Z
+updated_at: 2023-11-30T10:06:56Z
+closed_at: 2023-11-30T10:06:56Z
+repository_url: https://api.github.com/repos/marnunrey2/EGC-2324-1040-marnunrey2
+
+Pull request index: 51
+PR title: fix: arreglado manage.py #1
+PR URL: https://github.com/adrrf/EGC-2324-turno21-adrromflo/pull/2
+created_at: 2023-11-30T10:02:50Z
+updated_at: 2023-11-30T10:04:12Z
+closed_at: 2023-11-30T10:04:11Z
+repository_url: https://api.github.com/repos/adrrf/EGC-2324-turno21-adrromflo
+
+Pull request index: 52
+PR title: Fix related names in PDU widget
+PR URL: https://github.com/Uninett/nav/pull/2776
+created_at: 2023-11-30T09:57:27Z
+updated_at: 2023-11-30T11:17:30Z
+closed_at: 2023-11-30T11:17:30Z
+repository_url: https://api.github.com/repos/Uninett/nav
+
+Pull request index: 53
+PR title: fix(binance): skip positions cache on spot balance
+PR URL: https://github.com/ccxt/ccxt/pull/20174
+created_at: 2023-11-30T09:56:34Z
+updated_at: 2023-11-30T10:21:27Z
+closed_at: 2023-11-30T10:21:27Z
+repository_url: https://api.github.com/repos/ccxt/ccxt
+
+Pull request index: 54
+PR title: Fix: remove governance from trust registry in test fixture
+PR URL: https://github.com/didx-xyz/aries-cloudapi-python/pull/563
+created_at: 2023-11-30T09:55:45Z
+updated_at: 2023-11-30T11:28:13Z
+closed_at: 2023-11-30T11:28:12Z
+repository_url: https://api.github.com/repos/didx-xyz/aries-cloudapi-python
+
+Pull request index: 55
+PR title: Corrección del manage.py
+PR URL: https://github.com/Miguel-Angel-Roldan-Garcia/EGC2324-turno21-migrolgar2/pull/2
+created_at: 2023-11-30T09:53:42Z
+updated_at: 2023-11-30T09:57:31Z
+closed_at: 2023-11-30T09:57:30Z
+repository_url: https://api.github.com/repos/Miguel-Angel-Roldan-Garcia/EGC2324-turno21-migrolgar2
+
+Pull request index: 56
+PR title: fix: crop pdf
+PR URL: https://github.com/zeshuaro/telegram-pdf-bot/pull/1841
+created_at: 2023-11-30T09:47:49Z
+updated_at: 2023-11-30T09:49:46Z
+closed_at: 2023-11-30T09:49:45Z
+repository_url: https://api.github.com/repos/zeshuaro/telegram-pdf-bot
+
+Pull request index: 57
+PR title: Fix broken docs
+PR URL: https://github.com/JaxGaussianProcesses/GPJax/pull/424
+created_at: 2023-11-30T09:05:40Z
+updated_at: 2023-11-30T09:58:28Z
+closed_at: 2023-11-30T09:58:24Z
+repository_url: https://api.github.com/repos/JaxGaussianProcesses/GPJax
+
+Pull request index: 58
+PR title: BUG: fix issue with get_randomline when using Polygons
+PR URL: https://github.com/equinor/xtgeo/pull/1057
+created_at: 2023-11-30T08:53:41Z
+updated_at: 2023-11-30T11:40:04Z
+closed_at: 2023-11-30T11:39:57Z
+repository_url: https://api.github.com/repos/equinor/xtgeo
+
+Pull request index: 59
+PR title: fix: Add missing permission for dependabot automerge
+PR URL: https://github.com/ansys/pyprimemesh/pull/666
+created_at: 2023-11-30T08:45:55Z
+updated_at: 2023-11-30T09:07:36Z
+closed_at: 2023-11-30T09:07:35Z
+repository_url: https://api.github.com/repos/ansys/pyprimemesh
+
+Pull request index: 60
+PR title: Set exists_ok on creation of dirs (for parallel computing) [in3]
+PR URL: https://github.com/avaframe/AvaFrame/pull/946
+created_at: 2023-11-30T08:41:23Z
+updated_at: 2023-11-30T08:43:22Z
+closed_at: 2023-11-30T08:43:21Z
+repository_url: https://api.github.com/repos/avaframe/AvaFrame
+
+Pull request index: 61
+PR title: Fix typo a data_inici per a càlcul de descomptes de flux solar
+PR URL: https://github.com/Som-Energia/openerp_som_addons/pull/489
+created_at: 2023-11-30T08:20:27Z
+updated_at: 2023-11-30T09:16:11Z
+closed_at: 2023-11-30T09:16:10Z
+repository_url: https://api.github.com/repos/Som-Energia/openerp_som_addons
+
+Pull request index: 62
+PR title: Flip E2M4 and E2M6's tracks
+PR URL: https://github.com/freedoom/freedoom/pull/1211
+created_at: 2023-11-30T08:19:07Z
+updated_at: 2023-11-30T16:29:37Z
+closed_at: 2023-11-30T16:27:28Z
+repository_url: https://api.github.com/repos/freedoom/freedoom
+
+Pull request index: 63
+PR title: Do not make portadmin readonly if poe error
+PR URL: https://github.com/Uninett/nav/pull/2774
+created_at: 2023-11-30T07:32:32Z
+updated_at: 2023-11-30T08:38:31Z
+closed_at: 2023-11-30T08:38:31Z
+repository_url: https://api.github.com/repos/Uninett/nav
+
+Pull request index: 64
+PR title: fix: bugs in emoji conversation and heartbeat stop logic
+PR URL: https://github.com/aioqzone/Qzone2TG/pull/272
+created_at: 2023-11-30T07:16:40Z
+updated_at: 2023-11-30T07:26:55Z
+closed_at: 2023-11-30T07:26:54Z
+repository_url: https://api.github.com/repos/aioqzone/Qzone2TG
+
+Pull request index: 65
+PR title: fix: remove PR target conditions
+PR URL: https://github.com/ansys/pyadditive/pull/179
+created_at: 2023-11-30T07:01:49Z
+updated_at: 2023-11-30T07:05:53Z
+closed_at: 2023-11-30T07:05:52Z
+repository_url: https://api.github.com/repos/ansys/pyadditive
+
+Pull request index: 66
+PR title: add bearer
+PR URL: https://github.com/cloudforet-io/helloworld/pull/18
+created_at: 2023-11-30T06:57:53Z
+updated_at: 2023-11-30T07:20:17Z
+closed_at: 2023-11-30T07:20:17Z
+repository_url: https://api.github.com/repos/cloudforet-io/helloworld
+
+Pull request index: 67
+PR title: Check for `np.ndarray` in `Storage.num_edges`
+PR URL: https://github.com/pyg-team/pytorch_geometric/pull/8487
+created_at: 2023-11-30T06:57:31Z
+updated_at: 2023-11-30T06:58:12Z
+closed_at: 2023-11-30T06:58:11Z
+repository_url: https://api.github.com/repos/pyg-team/pytorch_geometric
+
+Pull request index: 68
+PR title: optimized search and made info pages uniform
+PR URL: https://github.com/F1R3BLAZ3/Paws-Purrs/pull/33
+created_at: 2023-11-30T06:53:25Z
+updated_at: 2023-11-30T08:26:46Z
+closed_at: 2023-11-30T08:26:46Z
+repository_url: https://api.github.com/repos/F1R3BLAZ3/Paws-Purrs
+
+Pull request index: 69
+PR title: Fix spaces appearing in lines before global paths
+PR URL: https://github.com/ErykMroczek/mofmt/pull/14
+created_at: 2023-11-30T06:47:41Z
+updated_at: 2023-11-30T06:48:59Z
+closed_at: 2023-11-30T06:48:55Z
+repository_url: https://api.github.com/repos/ErykMroczek/mofmt
+
+Pull request index: 70
+PR title: Fix/consider maximum interval in fuzz range
+PR URL: https://github.com/open-spaced-repetition/fsrs4anki-helper/pull/318
+created_at: 2023-11-30T06:18:23Z
+updated_at: 2023-11-30T06:18:42Z
+closed_at: 2023-11-30T06:18:41Z
+repository_url: https://api.github.com/repos/open-spaced-repetition/fsrs4anki-helper
+
+Pull request index: 71
+PR title: fix: http request when body is empty dict
+PR URL: https://github.com/sanders41/meilisearch-python-sdk/pull/768
+created_at: 2023-11-30T05:19:41Z
+updated_at: 2023-11-30T10:43:51Z
+closed_at: 2023-11-30T10:12:19Z
+repository_url: https://api.github.com/repos/sanders41/meilisearch-python-sdk
+
+Pull request index: 72
+PR title: Check for null part instance
+PR URL: https://github.com/inventree/InvenTree/pull/6011
+created_at: 2023-11-30T05:09:33Z
+updated_at: 2023-11-30T05:31:10Z
+closed_at: 2023-11-30T05:31:07Z
+repository_url: https://api.github.com/repos/inventree/InvenTree
+
+Pull request index: 73
+PR title: [PR #7624/af01b462 backport][stable-8] redhat_subscription: use D-Bus registration on RHEL 7 only on 7.4+
+PR URL: https://github.com/ansible-collections/community.general/pull/7643
+created_at: 2023-11-30T04:58:27Z
+updated_at: 2023-11-30T05:13:52Z
+closed_at: 2023-11-30T05:13:51Z
+repository_url: https://api.github.com/repos/ansible-collections/community.general
+
+Pull request index: 74
+PR title: [PR #7624/af01b462 backport][stable-7] redhat_subscription: use D-Bus registration on RHEL 7 only on 7.4+
+PR URL: https://github.com/ansible-collections/community.general/pull/7642
+created_at: 2023-11-30T04:58:19Z
+updated_at: 2023-11-30T05:13:49Z
+closed_at: 2023-11-30T05:13:48Z
+repository_url: https://api.github.com/repos/ansible-collections/community.general
+
+Pull request index: 75
+PR title: fix get_quotes function
+PR URL: https://github.com/Studio-Yandex-Practicum/sobitie/pull/225
+created_at: 2023-11-30T04:54:15Z
+updated_at: 2023-11-30T12:09:25Z
+closed_at: 2023-11-30T12:09:25Z
+repository_url: https://api.github.com/repos/Studio-Yandex-Practicum/sobitie
+
+Pull request index: 76
+PR title: fix(check_in): 修复打卡历史选项不直观的问题
+PR URL: https://github.com/he0119/CoolQBot/pull/455
+created_at: 2023-11-30T04:43:44Z
+updated_at: 2023-11-30T04:57:07Z
+closed_at: 2023-11-30T04:57:06Z
+repository_url: https://api.github.com/repos/he0119/CoolQBot
+
+Pull request index: 77
+PR title: TimeoutException 예외처리 추가 및 대기 시간 증가
+PR URL: https://github.com/0D0S/odos/pull/6
+created_at: 2023-11-30T04:07:10Z
+updated_at: 2023-11-30T05:02:32Z
+closed_at: 2023-11-30T04:07:22Z
+repository_url: https://api.github.com/repos/0D0S/odos
+
+Pull request index: 78
+PR title: Update and rename ci.yml to tdd-tests.yml
+PR URL: https://github.com/CSCI-GA-2820-FA23-003/promotions/pull/70
+created_at: 2023-11-30T03:28:08Z
+updated_at: 2023-11-30T04:59:36Z
+closed_at: 2023-11-30T04:59:36Z
+repository_url: https://api.github.com/repos/CSCI-GA-2820-FA23-003/promotions
+
+Pull request index: 79
+PR title: fold_call_exprs: Ensure the propagation destination is not overwritten.
+PR URL: https://github.com/angr/angr/pull/4372
+created_at: 2023-11-30T02:24:44Z
+updated_at: 2023-11-30T02:41:48Z
+closed_at: 2023-11-30T02:41:47Z
+repository_url: https://api.github.com/repos/angr/angr
+
+Pull request index: 80
+PR title: Fix color of escalate/report incident icon and make it mdi-fire instead of mdi-alert-outline
+PR URL: https://github.com/Netflix/dispatch/pull/4049
+created_at: 2023-11-30T01:56:37Z
+updated_at: 2023-11-30T16:02:38Z
+closed_at: 2023-11-30T16:02:37Z
+repository_url: https://api.github.com/repos/Netflix/dispatch
+
+Pull request index: 81
+PR title: Dont backslash examples, cop pep 8 line too long warning
+PR URL: https://github.com/umccr/cwl-ica-cli/pull/248
+created_at: 2023-11-30T01:51:02Z
+updated_at: 2023-11-30T01:51:07Z
+closed_at: 2023-11-30T01:51:07Z
+repository_url: https://api.github.com/repos/umccr/cwl-ica-cli
+
+Pull request index: 82
+PR title: StridedInterval: Return top for unexpected shift amounts.
+PR URL: https://github.com/angr/claripy/pull/379
+created_at: 2023-11-30T01:40:12Z
+updated_at: 2023-11-30T02:21:06Z
+closed_at: 2023-11-30T02:21:05Z
+repository_url: https://api.github.com/repos/angr/claripy
+
+Pull request index: 83
+PR title: Fix: `LayerConfig.inner_dim` default handling
+PR URL: https://github.com/pyg-team/pytorch_geometric/pull/8486
+created_at: 2023-11-30T00:14:01Z
+updated_at: 2023-11-30T15:44:23Z
+closed_at: 2023-11-30T11:32:51Z
+repository_url: https://api.github.com/repos/pyg-team/pytorch_geometric
+
+Pull request index: 84
+PR title: FIX: Api deployment
+PR URL: https://github.com/chrisj117/CS-472-GROUP-2-PROJECT/pull/122
+created_at: 2023-11-30T00:03:51Z
+updated_at: 2023-11-30T05:38:27Z
+closed_at: 2023-11-30T05:38:26Z
+repository_url: https://api.github.com/repos/chrisj117/CS-472-GROUP-2-PROJECT
+
+Pull request index: 85
+PR title: fix(security): fix cookies leakage between different users
+PR URL: https://github.com/WSH032/fastapi-proxy-lib/pull/10
+created_at: 2023-11-29T23:56:20Z
+updated_at: 2023-11-30T15:00:19Z
+closed_at: 2023-11-30T15:00:04Z
+repository_url: https://api.github.com/repos/WSH032/fastapi-proxy-lib
+
+Pull request index: 86
+PR title: Fix import error on mac with system integrity protection
+PR URL: https://github.com/tektronix/tm_devices/pull/109
+created_at: 2023-11-29T23:42:34Z
+updated_at: 2023-11-30T02:20:24Z
+closed_at: 2023-11-30T02:20:23Z
+repository_url: https://api.github.com/repos/tektronix/tm_devices
+
+Pull request index: 87
+PR title: Update home.css and home.html
+PR URL: https://github.com/coulontitouan/League-Card-Generator/pull/1
+created_at: 2023-11-29T23:40:38Z
+updated_at: 2023-11-29T23:44:50Z
+closed_at: 2023-11-29T23:44:49Z
+repository_url: https://api.github.com/repos/coulontitouan/League-Card-Generator
+
+Pull request index: 88
+PR title: Fixed an issue with realtime subscriptions which led to indexing being stuck in some cases
+PR URL: https://github.com/dipdup-io/dipdup/pull/904
+created_at: 2023-11-29T23:10:40Z
+updated_at: 2023-11-30T12:47:54Z
+closed_at: 2023-11-30T12:47:53Z
+repository_url: https://api.github.com/repos/dipdup-io/dipdup
+
+Pull request index: 89
+PR title: Show the value of the Entity in Slack snooze dropdown
+PR URL: https://github.com/Netflix/dispatch/pull/4045
+created_at: 2023-11-29T22:35:44Z
+updated_at: 2023-11-29T22:55:39Z
+closed_at: 2023-11-29T22:55:38Z
+repository_url: https://api.github.com/repos/Netflix/dispatch
+
+Pull request index: 90
+PR title: Bump azure-eventhub to 5.11.5
+PR URL: https://github.com/zmoog/eventhubs/pull/6
+created_at: 2023-11-29T22:31:13Z
+updated_at: 2023-11-29T22:32:04Z
+closed_at: 2023-11-29T22:32:03Z
+repository_url: https://api.github.com/repos/zmoog/eventhubs
+
+Pull request index: 91
+PR title: 🐛 Fix positional argument bug in `init_db.py`
+PR URL: https://github.com/tiangolo/full-stack-fastapi-postgresql/pull/562
+created_at: 2023-11-29T22:21:40Z
+updated_at: 2023-11-30T03:27:59Z
+closed_at: 2023-11-29T22:22:15Z
+repository_url: https://api.github.com/repos/tiangolo/full-stack-fastapi-postgresql
+
+Pull request index: 92
+PR title: fix: correct order, stop service
+PR URL: https://github.com/tikitko/blog-deploy/pull/6
+created_at: 2023-11-29T22:01:28Z
+updated_at: 2023-11-29T22:06:26Z
+closed_at: 2023-11-29T22:06:23Z
+repository_url: https://api.github.com/repos/tikitko/blog-deploy
+
+Pull request index: 93
+PR title: Bugfix/add failure when no files found
+PR URL: https://github.com/shipyardapp/shipyard-blueprints/pull/107
+created_at: 2023-11-29T21:56:11Z
+updated_at: 2023-11-30T00:30:00Z
+closed_at: 2023-11-30T00:29:57Z
+repository_url: https://api.github.com/repos/shipyardapp/shipyard-blueprints
+
+Pull request index: 94
+PR title: Keep aiohttp session open
+PR URL: https://github.com/killer0071234/python-zamg/pull/254
+created_at: 2023-11-29T21:33:13Z
+updated_at: 2023-11-29T21:47:19Z
+closed_at: 2023-11-29T21:47:13Z
+repository_url: https://api.github.com/repos/killer0071234/python-zamg
+
+Pull request index: 95
+PR title: Add rich dependency to setup.cfg
+PR URL: https://github.com/containers/podman-py/pull/351
+created_at: 2023-11-29T21:30:18Z
+updated_at: 2023-11-30T16:54:00Z
+closed_at: 2023-11-30T16:54:00Z
+repository_url: https://api.github.com/repos/containers/podman-py
+
+Pull request index: 96
+PR title: Moved log settings to separate class to avoid serializing entire CliContext
+PR URL: https://github.com/wordfence/wordfence-cli/pull/170
+created_at: 2023-11-29T21:12:17Z
+updated_at: 2023-11-29T21:12:43Z
+closed_at: 2023-11-29T21:12:42Z
+repository_url: https://api.github.com/repos/wordfence/wordfence-cli
+
+Pull request index: 97
+PR title: Fix catching a non BaseException
+PR URL: https://github.com/killer0071234/python-cybro/pull/164
+created_at: 2023-11-29T20:43:58Z
+updated_at: 2023-11-29T20:49:20Z
+closed_at: 2023-11-29T20:49:16Z
+repository_url: https://api.github.com/repos/killer0071234/python-cybro
+
+Pull request index: 98
+PR title: Prevented non-existant base paths from causing malware-scan to run indefinitely
+PR URL: https://github.com/wordfence/wordfence-cli/pull/169
+created_at: 2023-11-29T20:31:08Z
+updated_at: 2023-11-29T20:31:43Z
+closed_at: 2023-11-29T20:31:43Z
+repository_url: https://api.github.com/repos/wordfence/wordfence-cli
+
+Pull request index: 99
+PR title: Update README.md
+PR URL: https://github.com/CSCI-GA-2820-FA23-003/products/pull/58
+created_at: 2023-11-29T20:04:00Z
+updated_at: 2023-11-29T20:07:41Z
+closed_at: 2023-11-29T20:07:31Z
+repository_url: https://api.github.com/repos/CSCI-GA-2820-FA23-003/products
+
+Pull request index: 100
+PR title: Fix Parking Time sensor
+PR URL: https://github.com/robinostlund/volkswagencarnet/pull/218
+created_at: 2023-11-29T19:58:31Z
+updated_at: 2023-11-30T14:50:09Z
+closed_at: 2023-11-30T14:49:44Z
+repository_url: https://api.github.com/repos/robinostlund/volkswagencarnet
+

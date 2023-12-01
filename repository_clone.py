@@ -28,22 +28,6 @@ def github_crawler(data):
             index += 1
 
 
-# 레포지토리 정보 터미널 출력
-def repository_info_print(info):
-    print(info)
-
-# 레포지토리 정보 문자열 변환
-def repository_info_to_string(repo, index):
-    result =f"Repository index: {index}\n"\
-            f"Repository name: {repo['name']}\n"\
-            f"Language : {repo['language']}\n"\
-            f"Stars count: {repo['stargazers_count']}\n"\
-            f"Forks count: {repo['forks_count']}\n"\
-            f"Last update: {repo['updated_at']}\n"\
-            f"URL: {repo['html_url']}\n\n" 
-    return result
-
-
 # Repository clone
 def repository_clone(name, url):
     # 클론 저장 위치 설정
