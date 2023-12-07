@@ -9,3 +9,8 @@ class search_option():
     page = 1
     label= 'bug'
     state = 'closed'
+    search_title = ''
+
+    def set_search_title(self, title):
+        self.search_title = title
+        

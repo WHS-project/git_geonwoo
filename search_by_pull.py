@@ -10,6 +10,7 @@ def search_by_pull(headers):
     save_repository_info("Search type : pull\n", log_txt)
     
     option = search_option()
+    option.set_search_title("exec")
     page = option.page
     index = 0
     ''' 
@@ -23,32 +24,32 @@ def search_by_pull(headers):
     '''
     pr_info_list = []
 
-    while(True):
-        url = 'https://api.github.com/search/issues'
-            # 선택한 언어 중에서 issues, label이 bug인것, closed 된 것들을 가져옴
-        query = f'language:{option.language_input} 	is:pr is:{option.state} label:{option.label}'
-        params = {'q': query , 'page':{page} ,'per_page':{option.per_page}}  # 검색할 페이지 수만큼 가져옴
+    url = 'https://api.github.com/search/issues'
+        # 선택한 언어 중에서 issues, label이 bug인것, closed 된 것들을 가져옴
+    query = f'language:{option.language_input} 	is:pr is:{option.state} label:{option.label} {option.search_title}'
+    params = {'q': query , 'page':{page} ,'per_page':{option.per_page}}  # 검색할 페이지 수만큼 가져옴
 
 
-        response = requests.get(url, headers=headers, params=params)
-        # 응답 상태 및 내용 확인
-        if response.status_code == 200:
-            data = response.json()
-            # json txt로 저장
-            save_json_to_txt(data, "pull")
+    response = requests.get(url, headers=headers, params=params)
+    # 응답 상태 및 내용 확인
+    if response.status_code == 200:
+        data = response.json()
+        # json txt로 저장
+        save_json_to_txt(data, "pull")
 
-            # 처리해야할 데이터 전송
-            index = parser(data, index, pr_info_list)
-            if(index >= 100):
-                break
-            page += 1
+        '''            
+        # 처리해야할 데이터 전송
+        index = parser(data, index, pr_info_list)
+        if(index >= 100):
+        break
+        page += 1
+        '''
+    else:
+        status_error = f"Unable to retrieve data. Status code: {response.status_code}"
+        print(status_error)
+        save_repository_info(status_error, log_txt)
+        print(response.text)
         
-        else:
-            status_error = f"Unable to retrieve data. Status code: {response.status_code}"
-            print(status_error)
-            save_repository_info(status_error, log_txt)
-            print(response.text)
-            break
 
     save_pr_info_to_json(pr_info_list, clone_list)
 
