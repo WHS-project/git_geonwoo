@@ -26,8 +26,8 @@ def search_by_pull(headers):
 
     url = 'https://api.github.com/search/issues'
         # 선택한 언어 중에서 issues, label이 bug인것, closed 된 것들을 가져옴
-    query = f'language:{option.language_input} 	is:pr is:{option.state} label:{option.label} {option.search_title}'
-    params = {'q': query , 'page':{page} ,'per_page':{option.per_page}}  # 검색할 페이지 수만큼 가져옴
+    query = f'language:{option.language_input} 	is:pr is:{option.state} label:{option.label} {option.search_title} sort:created-desc '
+    params = {'q': query}  # 검색할 페이지 수만큼 가져옴
 
 
     response = requests.get(url, headers=headers, params=params)
@@ -36,10 +36,10 @@ def search_by_pull(headers):
         data = response.json()
         # json txt로 저장
         save_json_to_txt(data, "pull")
+        index = parser(data, index, pr_info_list)
 
         '''            
         # 처리해야할 데이터 전송
-        index = parser(data, index, pr_info_list)
         if(index >= 100):
         break
         page += 1
@@ -50,7 +50,6 @@ def search_by_pull(headers):
         save_repository_info(status_error, log_txt)
         print(response.text)
         
-
     save_pr_info_to_json(pr_info_list, clone_list)
 
 

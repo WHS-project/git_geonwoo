@@ -28,6 +28,16 @@ def save_json_to_txt(data, type):
     except Exception as e:
         print(f"Error saving JSON data to '{json_file_path}': {e}")
 
+# data.json 파일 json 저장
+def save_json_to_file(data, type):
+    json_file_path = f'./loging/{type}.json'
+    try:
+        with open(json_file_path, 'w', encoding='utf-8') as file:
+            json.dump(data, file, ensure_ascii=False, indent=2)
+        print(f"JSON data saved to '{json_file_path}' successfully.")
+    except Exception as e:
+        print(f"Error saving JSON data to '{json_file_path}': {e}")
+
 # Repository 개수 
 def repository_count(data):
     if 'items' in data:
@@ -81,9 +91,12 @@ def pr_info_to_dict(repo, index):
         "created_at": repo['created_at'],
         "updated_at": repo['updated_at'],
         "closed_at": repo['closed_at'],
+        "body" : repo['body'],
         "repository_url": repo['repository_url'],
         "repository_clone_url": clone_url,
-        "repository_name": clone_name
+        "repository_name": clone_name,
+        "diff_url":repo['pull_request']['diff_url'],
+        "merged_at":repo['pull_request']['merged_at'],
     }
     
     return pr_dict
