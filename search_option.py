@@ -14,3 +14,5 @@ class search_option():
     def set_search_title(self, title):
         self.search_title = title
         
+    def get_search_title(self):
+        return self.search_title 
