@@ -1,10 +1,10 @@
 import requests
-from log import save_json_to_txt, save_repository_info
-from search_option import *
+from log import *
+from search.search_option import search_option
 
 
 def search_by_code(headers):
-    from search import log_txt
+    from search.search import log_txt
     save_repository_info("Search type : code\n", log_txt)
 
     option = search_option()
@@ -20,7 +20,7 @@ def search_by_code(headers):
     if response.status_code == 200:
         data = response.json()
         # json txt로 저장
-        save_json_to_txt(data, "code")
+        save_json_to_file(data, "code")
         print(params)
         print(data)
     else:
