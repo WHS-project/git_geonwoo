@@ -1,12 +1,11 @@
 import requests
-from log import save_json_to_txt, save_repository_info
-from repository_clone import repository_clone
-from search_option import *
-from pull_json_parser import *
+from log import *
+from search.repository_clone import *
+from search.search_option import *
 
 
 def search_by_pull(headers):
-    from search import log_txt, clone_list, clone_list_path
+    from search.search import log_txt, clone_list, clone_list_path
     save_repository_info("Search type : pull\n", log_txt)
     
     option = search_option()

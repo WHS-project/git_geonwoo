@@ -109,7 +109,7 @@ def save_pr_info_to_json(pr_info, json_file):
     json_file.write(json_data)
 
 def find_clone_list(repo_url):
-    from search import get_header
+    from search.search import get_header
     header = get_header()
 
     response = requests.get(repo_url, headers=header)
@@ -122,3 +122,14 @@ def find_clone_list(repo_url):
         # 요청이 실패하면 None 반환
         print(f"Failed to fetch repository info. Status code: {response.status_code}")
         return None
+    
+
+def parser(data, index, pr_info_list):
+    for repo in data['items']:
+        if 'pull_request' in repo:
+            index += 1
+            pr_info = pr_info_to_dict(repo, index)
+            pr_info_list.append(pr_info)
+        if index == 100:
+            break
+    return index

@@ -4,7 +4,7 @@ from log import *
 
 # Githuc data 처리
 def github_crawler(data):
-    from search import log_txt
+    from search.search import log_txt
 
     # 가져온 Repository의 개수 출력
     items_length = repository_count(data)

@@ -1,1 +1,19 @@
-Search type : pull
+Search type : Repository
+Repository index: 0
+Repository name: public-apis
+Language : Python
+Stars count: 270995
+Forks count: 30512
+Last update: 2023-12-10T04:00:51Z
+URL: https://github.com/public-apis/public-apis
+Merge: false
+
+Repository index: 1
+Repository name: system-design-primer
+Language : Python
+Stars count: 237158
+Forks count: 41461
+Last update: 2023-12-10T03:54:45Z
+URL: https://github.com/donnemartin/system-design-primer
+Merge: false
+
