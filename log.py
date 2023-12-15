@@ -81,8 +81,8 @@ def pr_info_to_string(repo, index):
             f"repository_url: {repo['repository_url']}\n\n"
     return result
 
+# Pull Request 정보를 dictionary으로 저장
 def pr_info_to_dict(repo, index):
-    # Pull Request 정보를 dictionary으로 저장
     clone_url, clone_name = find_clone_list(repo['repository_url'])
     pr_dict = {
         "Pull request index": index,
@@ -108,6 +108,7 @@ def save_pr_info_to_json(pr_info, json_file):
     # JSON 파일로 저장
     json_file.write(json_data)
 
+# cloning repo list created
 def find_clone_list(repo_url):
     from search.search import get_header
     header = get_header()
@@ -123,7 +124,7 @@ def find_clone_list(repo_url):
         print(f"Failed to fetch repository info. Status code: {response.status_code}")
         return None
     
-
+# pr 정보 parser
 def parser(data, index, pr_info_list):
     for repo in data['items']:
         if 'pull_request' in repo:
