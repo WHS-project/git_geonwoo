@@ -1,1 +1,1 @@
-Search type : code
+Search type: Repository
