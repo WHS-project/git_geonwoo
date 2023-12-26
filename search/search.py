@@ -22,7 +22,7 @@ clone_list = open(clone_list_path,"w", encoding='utf-8')
 
 # 토큰 세팅 함수
 def set_token():
-    token = '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'
+    token = ' '
     return token
 
 # Github API를 통한 repository 검색

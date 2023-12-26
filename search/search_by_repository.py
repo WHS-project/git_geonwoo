@@ -30,6 +30,7 @@ def search_by_repository(headers):
             if response.status_code == 200:
                 page_data = response.json()
                 save_json_to_txt(page_data, f"repository{i}")
+                find_url(page_data, f"repository{i}")
             else:
                 status_error = f"Unable to retrieve data for page {i}. Status code: {response.status_code}"
                 print(status_error)
@@ -40,3 +41,14 @@ def search_by_repository(headers):
         print(status_error)
         save_repository_info(status_error, log_txt)
         print(response.text)
+
+
+def find_url(page_data, file_name):
+    url_list = []
+    for repo in page_data['items']:
+        url_list.append(repo['html_url'])
+
+    # url_list를 file_name.txt 파일로 저장
+    with open(f'{file_name}.txt', 'w', encoding='utf-8') as file:
+        for url in url_list:
+            file.write(url + '\n')
