@@ -2,10 +2,21 @@
 
 검색 조건에 따른 git Repository를 검색하고 클론하는 코드입니다.
 
-현재 python, starts = 10, fork =10, last_update는 30일로 설정되어 있으며,
+```python
+    language_input = 'python'
+    min_stars = 10000
+    min_forks = 1000
+    updated_after = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+    per_page = 100 # 최대값 100
+    page = 1
+    label= 'bug'
+    state = 'closed'
+    search_title = ''
+```
 
-추후 언어 선택 및 조건 변경 기능 추가할 예정입니다.
+search_option.py 에서 검색하고자 하는 조건을 입력하면 됩니다.
+현재 설정된 조건 이외의 조건을 추가하고자 한다면, serarch_option.py에 설정을 하여 param에 추가를 하거나, 직접 param에 추가를 해야합니다.
 
-log.txt에 검색 및 클론한 Repository의 정보를 저장하고,
+추가적인 내용은 노션에 작성된 문서를 참고하시고
 
-data.json에 github api에 요정하여 받은 json 데이터를 저장하였습니다.
+추가적인 문의는 DM 주세요
